@@ -1,0 +1,8 @@
+{
+  "name": "Crescendo",
+  "description": "Elevate Your Audio Journey. A premium, high-fidelity audio equipment store featuring interactive audio customization, standard-setting hardware, and custom-tuned acoustics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
